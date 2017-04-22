@@ -23,4 +23,4 @@ Step 2. Add the dependency
 
 Screenshots
 
-![](images/Screenshot.png)
+![](images/Screenshot.png 320*480)
