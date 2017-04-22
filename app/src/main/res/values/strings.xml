@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FontUtilsDemo</string>
+    <string name="futura">Futura.ttf</string>
+    <string name="windsong">Windsong.ttf</string>
+    <string name="textString">This is my textview</string>
+    <string name="editString">MyEditText</string>
+    <string name="myButton">My Button</string>
+</resources>
