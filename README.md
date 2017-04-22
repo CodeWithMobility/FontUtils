@@ -76,10 +76,14 @@ You need to add xml as follows:
 
 </LinearLayout>
 
+string.xml
 
+ <string name="futura">Futura.ttf</string>
+ <string name="windsong">Windsong.ttf</string>
 
-
-Screenshots
+1. Create a assets folder in your project
+2. Create a fonts folder in assets
+3. Copy and paste your ttf files in this folder
 
 
 <img src ="images/Screenshot.png" width="540" height="960">
