@@ -23,4 +23,5 @@ Step 2. Add the dependency
 
 Screenshots
 
-![](images/Screenshot.png)
+
+<img src ="images/Screenshot.png" width="320" height="480">
