@@ -78,8 +78,15 @@ You need to add xml as follows:
 
 string.xml
 
- <string name="futura">Futura.ttf</string>
- <string name="windsong">Windsong.ttf</string>
+ <resources>
+    <string name="app_name">FontUtilsDemo</string>
+    <string name="futura">Futura.ttf</string>
+    <string name="windsong">Windsong.ttf</string>
+    <string name="textString">This is my textview</string>
+    <string name="editString">MyEditText</string>
+    <string name="myButton">My Button</string>
+</resources>
+
 
 1. Create a assets folder in your project
 2. Create a fonts folder in assets
