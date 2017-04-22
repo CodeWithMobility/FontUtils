@@ -19,3 +19,8 @@ Step 2. Add the dependency
 	dependencies {
 	        compile 'com.github.Manuaravind1989:FontUtils:0.1.0'
 	}
+
+
+Screenshots
+
+![](images/Screenshot)
