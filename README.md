@@ -24,4 +24,4 @@ Step 2. Add the dependency
 Screenshots
 
 
-<img src ="images/Screenshot.png" width="320" height="480">
+<img src ="images/Screenshot.png" width="540" height="960">
